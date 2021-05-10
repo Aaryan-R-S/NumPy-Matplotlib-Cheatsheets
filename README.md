@@ -61,6 +61,7 @@ A list of commonly used resources that I myself followed and find helpful are li
 `Python Modules ->`
 * [NumPy](https://numpy.org/)
 * [Matplotlib](https://matplotlib.org/)
+* [Jupyter](https://jupyter.org/)
 
 
 
@@ -86,6 +87,7 @@ To get a local copy up and running follow these simple steps.
    ```powershell
      pip install numpy
      pip install matplotlib
+     pip install jupyter
    ```
 
 <!-- ROADMAP -->
@@ -106,6 +108,7 @@ See `LICENSE` for more information.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [NumPy Tutorial @Code With Harry](https://www.youtube.com/watch?v=Rbh1rieb3zc)
+* [Jupyter Tutorial @Code With Harry](https://youtu.be/TjRXT8mkTvM)
 * [Matplotlib Tutorial @W3Schools](https://www.w3schools.com/python/matplotlib_intro.asp)
 * [Sample Cheatsheet @BN Jain](bnjain@iiitd.ac.in)
 * [Flaticon](https://flaticon.com)
