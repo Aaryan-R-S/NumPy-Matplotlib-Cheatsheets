@@ -1,0 +1,10 @@
+---------- Excel --------
+refer edureka youtube 4hr lecture
+--------- In cmd ---------
+1. pip install jupyter
+2. jupyter notebook
+--------- In server ---------
+3. new notebook -- select python 3
+
+--------- Tools -----------
+1. %lsmagic for all commands
